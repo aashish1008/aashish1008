@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish1008&label=Profile%20views&color=0e75b6&style=flat" alt="aashish1008" /> </p>
 
-- 🔭 I’m currently working on **Agentic AI**
+- 🔭 I’m currently working on **Real Time Marketing and Engagement Engine Peoject**
 
 - 🌱 I’m currently learning **Agentic AI**
 
